@@ -4,7 +4,7 @@
 [DPCNet: Dual Path Multi-Excitation Collaborative Network for Facial Expression Representation Learning in Videos](https://2022.acmmm.org/) <br>
  [Yan Wang](https://wangyanckxx.github.io/) <sup>1</sup>,
  [Yixuan Sun](http://www.fudanroilab.com/2019/10/07/YixuanSun.html) <sup>1</sup>,
- [Wei Song](http://www.fudanroilab.com/2019/10/07/YixuanSun.html) <sup>3</sup>,
+ [Wei Song]([http://www.fudanroilab.com/2019/10/07/YixuanSun.html](https://scholar.google.com/citations?user=HSn4UOIAAAAJ&hl=zh-CN)) <sup>3</sup>,
  [Shuyong Gao](http://www.fudanroilab.com/2020/07/01/ShuyongGao.html) <sup>2</sup>,
  [Yiwen Huang](#) <sup>2</sup>,
  [Zhaoyu Chen](http://www.fudanroilab.com/2019/01/17/ZhongyingLiu.html) <sup>2</sup>,
