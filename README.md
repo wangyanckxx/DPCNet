@@ -11,6 +11,6 @@
  [Weifeng Ge](http://www.weifengge.net/) <sup>2</sup>,
  [Wenqiang Zhang](http://faet.fudan.edu.cn/17/bb/c13532a137147/page.htm) <sup>1, 2</sup>
 
-<sup>1</sup> Academy for Engineering & Technology, Fudan University
+<sup>1</sup> Academy for Engineering & Technology, Fudan University <br>
 <sup>2</sup> School of Computer Science, Fudan University <br>
 <sup>3</sup> College of Information Technology, Shanghai Ocean University <br>
