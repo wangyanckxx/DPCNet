@@ -16,7 +16,7 @@
 <sup>3</sup> College of Information Technology, Shanghai Ocean University <br>
 
 
-*Codes and the encoder will be released soon!*
+*Codes will be released soon!*
 
 ## Requirements
 
