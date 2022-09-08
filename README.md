@@ -14,3 +14,13 @@
 <sup>1</sup> Academy for Engineering & Technology, Fudan University <br>
 <sup>2</sup> School of Computer Science, Fudan University <br>
 <sup>3</sup> College of Information Technology, Shanghai Ocean University <br>
+
+
+*Codes and the encoder will be released soon!*
+
+## Requirements
+
+We test the codes in the following environments, other versions may also be compatible:
+
+- Python==3.6.9
+- PyTorch==1.3.0
